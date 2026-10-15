@@ -28,11 +28,41 @@
 
 ---
 
-## สมาชิกในกลุ่ม (Team Members)
+<h2>👥 สมาชิกในกลุ่ม (Team Members)</h2>
 
-### | ลำดับ | ชื่อ-นามสกุล | รหัสนิสิต | ตำแหน่ง |
-### | :---: | :--- | :---: | :---: |
-### | 1 | นายธนภัทร มณีโชติ | 6821651311 | `FullStack` |
-### | 2 | นายมหาสมุทร แสนสุข | 6821651680 | `Frontend` |
-### | 3 | นายวรายุ สมุทรเพรียว | 6821651744 | `FullStack` |
-### | 4 | นายศุภกร สามารถกิจ | 6821651817 | `Frontend` |
+<table>
+  <thead>
+    <tr>
+      <th align="center">ลำดับ</th>
+      <th align="left">ชื่อ-นามสกุล</th>
+      <th align="center">รหัสนิสิต</th>
+      <th align="center">ตำแหน่ง</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center">1</td>
+      <td align="left">นายธนภัทร มณีโชติ</td>
+      <td align="center"><code>6821651311</code></td>
+      <td align="center"><b>FullStack</b></td>
+    </tr>
+    <tr>
+      <td align="center">2</td>
+      <td align="left">นายมหาสมุทร แสนสุข</td>
+      <td align="center"><code>6821651680</code></td>
+      <td align="center"><b>Frontend</b></td>
+    </tr>
+    <tr>
+      <td align="center">3</td>
+      <td align="left">นายวรายุ สมุทรเพรียว</td>
+      <td align="center"><code>6821651744</code></td>
+      <td align="center"><b>FullStack</b></td>
+    </tr>
+    <tr>
+      <td align="center">4</td>
+      <td align="left">นายศุภกร สามารถกิจ</td>
+      <td align="center"><code>6821651817</code></td>
+      <td align="center"><b>Frontend</b></td>
+    </tr>
+  </tbody>
+</table>
